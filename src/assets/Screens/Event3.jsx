@@ -4,7 +4,7 @@ import Event from "../images/Event3.jpeg"
 import { Link } from "react-router-dom";
 import Twitter from "../images/Twitter.jpg"
 import Facebook from "../images/Facebook.jpg"
-import Linkedin from "../images/Linkedin.jpg"
+import Linkedin from "../images/LinkedIn.jpg"
 import WhatsApp from "../images/WhatsApp.jpg"
 
 function Event3() {
