@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Aboshi;
+    src: url("./assets/fonts/AoboshiOne-Regular.ttf");
+}
+
+@import "tailwindcss";
+
+@theme{
+    --font-Aboshi: Aboshi,"sans-serif"
+}
