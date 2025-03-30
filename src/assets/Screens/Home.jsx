@@ -9,9 +9,9 @@ import { Link } from "react-router-dom";
 function Home() {
 
     return (
-        <>
+        <div className="bg-[#F8F8FA]">
             <Navbar></Navbar>
-            <div >
+            <div className="bg-[#F8F8FA]">
                 <div className="font-Aboshi flex mt-10  flex-col lg:flex-row">
                     <div className="mx-3 sm:mx-13 md:ml-25 w-70 md:w-145 leading-[4] md:leading-[6]">
                         <span className="text-4xl sm:text-7xl ">Event<span className="text-[#7848F4]">Hive</span>-ing the Best.Day. Ever.</span>
@@ -109,7 +109,7 @@ function Home() {
                     </div>
                 </div>
             </div>
-        </>
+        </div>
     )
 }
 
