@@ -48,7 +48,7 @@ function Create() {
             </div>
             <div className="flex flex-col items-center mt-7  ">
                 <div className="flex justify-start w-[813px]"><span>Event Description</span></div>
-                <textarea rows={10} cols={60} className=" flex mt-4 mb-20 text-[#687C94] border-1 rounded-xl px-1 resize-x" >Type Here...</textarea>
+                <textarea rows={10} cols={100} className=" flex mt-4 mb-20 text-[#687C94] border-1 rounded-xl px-1 resize-x" >Type Here...</textarea>
 
             </div>
 
